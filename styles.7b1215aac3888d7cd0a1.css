@@ -1,0 +1,30 @@
+html {
+  font-size: 60px;
+}
+
+.container {
+  height: 100vh;
+}
+
+.main {
+  height: 500px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.btn {
+  width: 150px;
+  height: 100px;
+}
+.font_size_80 {
+  font-size: 80px;
+}
+.reset_container {
+  text-align: center;
+}
+.btn_reset {
+  width: 300px;
+  height: 100px;
+}
+
